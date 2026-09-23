@@ -6,6 +6,5 @@ Aquí irán archivos de datos (CSV, JSON, Markdown, etc.) que ustedes, como estu
 
 Más adelante el profesor indicará qué archivos crear y cómo trabajar sobre ellos.
 
-## fuente de datos
-
-datos del banco mundial como no que si jejeje
+## Fuente de datos
+Datos del DANE.
